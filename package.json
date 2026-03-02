@@ -1,7 +1,7 @@
 {
   "name": "@awgmi/contact-guard",
   "version": "1.0.0",
-  "description": "Shared contact form spam protection — OpenRouter classifier, honeypot, rate limiting, Resend mailer",
+  "description": "Zero-dependency spam classification for contact forms. OpenRouter + honeypot defences with fail-open design.",
   "type": "module",
   "exports": "./index.js",
   "license": "MIT",
