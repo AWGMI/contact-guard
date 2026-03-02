@@ -1,6 +1,6 @@
 {
   "name": "@awgmi/contact-guard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zero-dependency spam classification for contact forms. OpenRouter + honeypot defences with fail-open design.",
   "type": "module",
   "exports": "./index.js",
