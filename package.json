@@ -1,0 +1,26 @@
+{
+  "name": "@awgmi/contact-guard",
+  "version": "1.0.0",
+  "description": "Shared contact form spam protection — OpenRouter classifier, honeypot, rate limiting, Resend mailer",
+  "type": "module",
+  "exports": "./index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "peerDependencies": {
+    "hono": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWGMI/contact-guard.git"
+  },
+  "keywords": [
+    "contact-form",
+    "spam-protection",
+    "honeypot",
+    "rate-limiting",
+    "openrouter",
+    "resend"
+  ]
+}
